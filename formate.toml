@@ -34,6 +34,7 @@ default_section = "THIRDPARTY"
 known_third_party = [
     "apeye",
     "coincidence",
+    "consolekit",
     "coverage",
     "coverage_pyver_pragma",
     "domdf_python_tools",
@@ -43,7 +44,10 @@ known_third_party = [
     "pytest",
     "pytest_cov",
     "pytest_randomly",
+    "pytest_regressions",
+    "pytest_rerunfailures",
     "pytest_timeout",
+    "requests",
     "shippinglabel",
 ]
 known_first_party = "shippinglabel_conda"
