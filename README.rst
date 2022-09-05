@@ -48,8 +48,8 @@ shippinglabel-conda
 	:target: https://github.com/domdfcoding/shippinglabel-conda/actions?query=workflow%3A%22mypy%22
 	:alt: mypy status
 
-.. |requires| image:: https://dependency-dash.herokuapp.com/github/domdfcoding/shippinglabel-conda/badge.svg
-	:target: https://dependency-dash.herokuapp.com/github/domdfcoding/shippinglabel-conda/
+.. |requires| image:: https://dependency-dash.repo-helper.uk/github/domdfcoding/shippinglabel-conda/badge.svg
+	:target: https://dependency-dash.repo-helper.uk/github/domdfcoding/shippinglabel-conda/
 	:alt: Requirements Status
 
 .. |coveralls| image:: https://img.shields.io/coveralls/github/domdfcoding/shippinglabel-conda/master?logo=coveralls
